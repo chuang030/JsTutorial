@@ -16,7 +16,10 @@ import stepJSONData from './assets/data/nvm_step_data.json'
     <StepBox :stepJSONData=stepJSONData.step></StepBox>
     <ChapterBox chapteText="vscode安裝步驟"></ChapterBox>
     <ChapterBox chapteText="建立專案"></ChapterBox>
+    
+
   </div>
+  
   
 
 </template>

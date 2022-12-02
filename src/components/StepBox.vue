@@ -27,8 +27,11 @@ const props = defineProps<{ stepJSONData: stepJSONDataType }>();
     .step-box {
         padding: 1%;
         width: calc(100% / 3);
-        height: 400px;
+        height: 450px;
         min-width: 400px;
+        display: flex;
+        flex-wrap: wrap;
+        align-items: stretch;
         border-bottom: 2px solid rgba($color: #FFFFFF, $alpha: 0.75);
         border-right: 2px solid rgba($color: #FFFFFF, $alpha: 0.75);
 
@@ -36,15 +39,15 @@ const props = defineProps<{ stepJSONData: stepJSONDataType }>();
             border-right: none;
         }
 
-        @media screen and (max-width: 1200px) {
+        @media screen and (max-width: 1250px) {
             width: calc(100% / 2);
 
             &:nth-of-type(2n) {
                 border-right: none;
             }
         }
-        
-        @media screen and (max-width: 800px) {
+
+        @media screen and (max-width: 825px) {
             width: 100%;
 
             &:nth-of-type(1n) {
@@ -55,6 +58,17 @@ const props = defineProps<{ stepJSONData: stepJSONDataType }>();
         .step-box-directions {
             margin-bottom: 2%;
             width: 100%;
+
+            h3 {
+                padding-bottom: 2%;
+            }
+
+            code {
+                padding: 2px 4px;
+                color: #c7254e;
+                background-color: #f9f2f4;
+                border-radius: 4px;
+            }
         }
 
         .step-box-images {
@@ -63,7 +77,7 @@ const props = defineProps<{ stepJSONData: stepJSONDataType }>();
             width: 100%;
             // width: 250px;
             // height: fill-available;
-            height: 250px;
+            min-height: 200px;
             background-position: center;
             background-repeat: no-repeat;
             background-size: contain;

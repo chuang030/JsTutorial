@@ -12,13 +12,63 @@
         },
         {
             "id": 2,
-            "directions": "789",
-            "imagesUrl": "789"
+            "directions": "<p>點擊「是」</p>",
+            "imagesUrl": "https://dsm01pap007files.storage.live.com/y4mX9cm868zIzL7SIwI78FKHqoE408U5Uf1EHWOHhYjsfVKkv6uVUWQnFFdWDkE8n1pFWn2XGOuG-X4Us3JLIGljwS2v9lt8VhrfZsAeEZslJ4VIeG2_7j1qatmdeWRe-nlRc7yg09lu76UEzquhyFmWurEaHC29ubFg7TEXzQ_bjVNfu_oqZmidggYY0LIxQcC?width=540&height=373&cropmode=none"
         },
         {
-            "id": 3,
-            "directions": "111",
-            "imagesUrl": "111"
+            "id": 4,
+            "directions": "<p>選擇「I accept the agreement」後點擊下一步</p>",
+            "imagesUrl": "https://dsm01pap007files.storage.live.com/y4mmVN5snpYyRzSr34iw2cbxVq3Y8yA8jRJqVq7iB3SdKScnBERKN-McIwF1so0wVMPGHpNreqLO5WyZofBjhUPdi1fbCk4XXRr5kjxdJ7xv9qMYqBwfGfOWPBLnK67Dr287VeaqdxMxrRkZAxxfFMS7ykAzToSqpEF2tD2PQ2EjJbmtCqOhIpVHDuA_eVIP1Iu?width=499&height=389&cropmode=none"
+        },
+        {
+            "id": 5,
+            "directions": "<p>點擊下一步</p>",
+            "imagesUrl": "https://dsm01pap007files.storage.live.com/y4ma9ylXR_WUMfnAdtRaOGRG0nCbgdiE1SBHURhvOMb3WrNnIxPzEPWo8WgAPIQCD7glEcru_uZby3r4zZlzVWGQkiBB9McB5kBz7BtpjZTOrXg1eePiLmVdryFs9WETITATj4k7JlskuDZas8fQNkZPGOxaewJOTGY3D__1JyQhbrkgkxogCk-nTfP1jF8R8_9?width=495&height=387&cropmode=none"
+        },
+        {
+            "id": 6,
+            "directions": "<p>點擊下一步</p>",
+            "imagesUrl": "https://dsm01pap007files.storage.live.com/y4mL_EpGPhSWYSBS2wCwbV2XT3DeG6TxCkA1RXuOF5LFevpnkdrKW6fAv3SAxCE22j-MyK8HzL58ZiJ0BYdXRUdpXQOvc36fVFFD_UDjVcbpD4PSAKIT0trGQ2KS9Tuar-bJc8eeQxlXgl-4rBzOMBSAItYSRJFCbd_HoohUx-OCJMQ5XTHHZxZy4RT6KxnV4xB?width=496&height=388&cropmode=none"
+        },
+        {
+            "id": 7,
+            "directions": "<p>點擊安裝，等待安裝完成</p>",
+            "imagesUrl": "https://dsm01pap007files.storage.live.com/y4mLGgFU3pskFioCANXjK0NJyQLx2fjGVvupZOCBFqAZ4DtRwdDY2SW9ITgXB2NCU8JElxRXzEla3QnCVCGKghAlNDlUne3sxmR3qq-LczqooaqYC0x6oBj9Xsn-qlDKf_NLG4kRS7xqvgaJxhOh6s7PFbZmLnhapMIE5i3nqra1SuhoxGMO9NkRsdx2LNM4OOu?width=496&height=389&cropmode=none"
+        },
+        {
+            "id": 8,
+            "directions": "<p>看到這個畫面代表安裝完成</p>",
+            "imagesUrl": "https://dsm01pap007files.storage.live.com/y4mzHQyBvlevtvwqZt2z1Sp3HIsc-FR8kAmWw6zfceu29xZwMaubgmUfYS3IxHjj8SqXmxtZK4Xs4lnORr3clsZ9dGRLSg65N7p21XhymXV0Yhz87bjXNMAgq1ezQ-nGhOGw0Yl9u9eXaPrATbOczAThABASvXaIDxiUPszWr_MqgLTOKm5vm1qxDzZ1zf2VbA0?width=495&height=388&cropmode=none"
+        },
+        {
+            "id": 9,
+            "directions": "<p>對開始按鈕右鍵點擊後，選擇紅框內的選項</p>",
+            "imagesUrl": "https://dsm01pap007files.storage.live.com/y4mBu-GgwlBcwDMZi306dafinppk6sS_22ny2kMVmoW3kz90VphAs1LDQiqggfK5QhCYA2zu2Cg1cIfZOxTC4WETULmPyPOd3JBsEXj5AYX5XP303oRtgSQOW2_JbHnzlNfCZ-UT7hsicfTlydYuB9eeyhp2oJdavSF8tmtERlUoeNLMbaym1iUSn02enkbiyWN?width=362&height=603&cropmode=none"
+        },
+        {
+            "id": 10,
+            "directions": "<p>點擊「是」</p>",
+            "imagesUrl": "https://dsm01pap007files.storage.live.com/y4myPBn1_F0_Ve-JA6xCRoD47MxtW8LVvD6mffWi_jrEq18kJJcW_uoHFO1TSPA0jXjCf82_nVzJZbh09Ac6qDQy9wAI5IRlpFOJiPAJfftCxTWOzUDNyJMJw81SLc8Li2RP6WjQwROvzQYhdJRP5T0flosfCIFwYLQ3DvEKtKW1_JvFSolw-5aV0xoIDAA2OZS?width=486&height=321&cropmode=none"
+        },
+        {
+            "id": 11,
+            "directions": "<p>接下來會看到這個畫面</p>",
+            "imagesUrl": "https://dsm01pap007files.storage.live.com/y4mIDGXWIJZ0-19oP1aUwsZYDQ8dH8IKzcmMmnm_CjFKsEvD54fSME08u3dljnT_4dkG-ioh2zoImr86yFPV1heblHpACye77eCr4TjW7wNPpRebMh7uJ9Szm6myduSBJqqmAAjnpW1ccDhf0RdeBzXZfwIg5FbuNmWSa7LAiuUONVUf4BZBGst9Ea3pBLn9cKP?width=859&height=732&cropmode=none"
+        },
+        {
+            "id": 12,
+            "directions": "<p>在裡面輸入以下指令後按下Enter</p><code>nvm install 16.17.0</code>",
+            "imagesUrl": "https://dsm01pap007files.storage.live.com/y4m5Nd9pN1RABAnqBmeIZ5t9X0yC3MA24Agq1bF3x2ThjUJ0G9S52rjOhic2ZhqYgTkUiqsiNqoo7LvbfUEpjJx8o5VhBXZmRQV10NwAn3sDirxy_7F50iUhz7fWYrKaLfHTYz-xElNt9hcNkIzcEy-gUxyrbwpfrlFY7nB3GzYOyN_vTqsTJjAzxb4kjhUNk-T?width=859&height=732&cropmode=none"
+        },
+        {
+            "id": 13,
+            "directions": "",
+            "imagesUrl": ""
+        },
+        {
+            "id": 14,
+            "directions": "",
+            "imagesUrl": ""
         }
     ]
 }
