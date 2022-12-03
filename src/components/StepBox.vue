@@ -35,8 +35,15 @@ const props = defineProps<{ stepJSONData: stepJSONDataType }>();
         border-bottom: 2px solid rgba($color: #FFFFFF, $alpha: 0.75);
         border-right: 2px solid rgba($color: #FFFFFF, $alpha: 0.75);
 
-        &:nth-of-type(3n) {
-            border-right: none;
+        // &:nth-of-type(3n) {
+        //     border-right: none;
+        // }
+
+        @media screen and (min-width: 1250px) {
+
+            &:nth-of-type(3n) {
+                border-right: none;
+            }
         }
 
         @media screen and (max-width: 1250px) {
@@ -47,7 +54,7 @@ const props = defineProps<{ stepJSONData: stepJSONDataType }>();
             }
         }
 
-        @media screen and (max-width: 825px) {
+        @media screen and (max-width: 837px) {
             width: 100%;
 
             &:nth-of-type(1n) {
@@ -72,16 +79,11 @@ const props = defineProps<{ stepJSONData: stepJSONDataType }>();
         }
 
         .step-box-images {
-            // display: flex;
-            // justify-content: center;
             width: 100%;
-            // width: 250px;
-            // height: fill-available;
             min-height: 200px;
             background-position: center;
             background-repeat: no-repeat;
             background-size: contain;
-            // overflow: hidden;
             cursor: pointer;
 
             img {

@@ -29,7 +29,7 @@ defineProps<{ titleText: string }>()
         }
 
         @media screen and (max-width: 720px) {
-            width: 100%;
+            width: 90%;
         }
 
         h1 {
