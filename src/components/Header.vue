@@ -13,16 +13,20 @@ defineProps<{ titleText: string }>()
 
 <style lang="scss">
 .title {
-
+    width: 100%;
+    min-width: 395px;
     margin-bottom: 3%;
     display: flex;
     justify-content: center;
 
     .title-box {
-
         width: calc(100% / 3);
         padding: 0.5%;
         border-bottom: solid white;
+
+        h1 {
+            width: 100%;
+        }
 
         @media screen and (max-width: 1024px) {
             width: calc(100% / 2);

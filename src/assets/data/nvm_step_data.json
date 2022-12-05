@@ -2,7 +2,7 @@
     "step": [
         {
             "id": 0,
-            "directions": "<p>下載、安裝nvm：</p><a href='https://github.com/coreybutler/nvm-windows/releases/download/1.1.10/nvm-setup.exe'>按我下載~</a><p>此版本為1.1.10，需要其他版本可以到以下網站：</p><a href='https://github.com/coreybutler/nvm-windows/releases'>nvm-windows</a>",
+            "directions": "<p>下載、安裝nvm：<a href='https://github.com/coreybutler/nvm-windows/releases/download/1.1.10/nvm-setup.exe' target='blank' class='directions-style'>按我下載~</a></p><p>此版本為1.1.10，需要其他版本可以到以下網站：<a href='https://github.com/coreybutler/nvm-windows/releases' target='blank' class='directions-style'>nvm-windows</a></p>",
             "imagesUrl": "https://dsm01pap007files.storage.live.com/y4m2rvZ0P7nQCn9RpJooZHdlRrXU0xLKeBOvkDwCTU4d7iycViyj_YsTZAwgsnIgXeKZJr_CHaNY116sEtF_GkF0bOPWLtxlWwEpvTyo5U4Vn4oeq1UoERkMflDIlJzMDJ3d0ghOTA7txFfhp4_laae4wrRM7B5TaVwhSl7zkHFLE2by6a_przXScrsbk-68Ovy?width=1886&height=905&cropmode=none"
         },
         {
@@ -62,33 +62,28 @@
         },
         {
             "id": 13,
-            "directions": "",
-            "imagesUrl": ""
+            "directions": "<p>看到這個畫面代表成功安裝 node 16.17.0 版本</p>",
+            "imagesUrl": "https://dsm01pap007files.storage.live.com/y4m4u2FV3hNa36lN9TYSRZ1piepE0d5KH4WGvn9C8rbKPMO_D7598MI1vHNonqs5SWPd3dnp9Pm1DTGWCmgz8BZMBPtxCmCBEvGzNZ67b7Aw_zbKbZicJ0VhWUh4Hzx5WtG9tWJABV3kpZ-TdoIyMUIxq9eEVLd6vx86uy5hJwxpvztuSVjJ1nOZIHYBfX6JYDA?width=859&height=732&cropmode=none"
         },
         {
             "id": 14,
-            "directions": "",
-            "imagesUrl": ""
+            "directions": "<p>接下來輸入以下指令後按下Enter</p><code>nvm use 16.17.0</code>",
+            "imagesUrl": "https://dsm01pap007files.storage.live.com/y4mhsRK7_iv6KjxC_zkaGEwelXbiI5_O0GC9-s7vJ8H2nVJNLH5_ZZXyv6Ufqpzwl75EW9ksKmWb9pJ5MuNfLh_5aMaEZU_UrjnQ2vqwLwkFKRSVCDigB3Jqt8VpQSTmzKN5Mn-tUptVeUlQj_EFV4af5rDRSWzjkxDe5HB-Bi--4T3hkE8wK5MoPk9_VoQDw07?width=859&height=732&cropmode=none"
         },
         {
             "id": 15,
-            "directions": "",
-            "imagesUrl": ""
+            "directions": "<p>看到這個畫面代表成功使用 node 16.17.0 版本</p>",
+            "imagesUrl": "https://dsm01pap007files.storage.live.com/y4mKxWoHUP2i4Yj84yCiBL9cfUvqZYA2DupV7I1Ll_0xBufHHtlhgAeycstjmvFOcBPtZBnmI8PBO2rdr_0fcXbRlcZBAzMbZhMVMYEa0qaYJ2WBxV5fzH_78cBQJ02yQMAp5hrbA3PZVZ-pKYABsp4fcVaGAZJlWGuazOhfB3nHks0QeAqe2Qtip7DXKscvLm3?width=859&height=732&cropmode=none"
         },
         {
             "id": 16,
-            "directions": "",
-            "imagesUrl": ""
+            "directions": " <p>再來確認node js 是否成功安裝，以及版本是否正確，輸入以下指令後按下Enter</p>",
+            "imagesUrl": "https://dsm01pap007files.storage.live.com/y4mmqi2kZ7KpoFj6oe_ATDbJkJWNs2W-Pm75LGoc-iqiifyaxXuQPcMEXvaua1NqivrBsbr8_GRgKML8gZzgzxkNEwWCbubbgS3h9CF1m8A-nuP57fwtFCX6tuIkNbYGw6QqLS8sDCvdkwSmBDuanFRl95BlSVZ03Sxa-6rQ_nBzndArxQKNxm09EaTCI1qGJBF?width=859&height=732&cropmode=none"
         },
         {
             "id": 17,
-            "directions": "",
-            "imagesUrl": ""
-        },
-        {
-            "id": 18,
-            "directions": "",
-            "imagesUrl": ""
+            "directions": "<p>成功輸出<code>v16.17.0</code>代表安裝成功</p>",
+            "imagesUrl": "https://dsm01pap007files.storage.live.com/y4mVJfEl18OnHKqrtymrY8VMuTTq1q65QiNaC89hUE6TSWGztQ0kWjD0CBjX-tBR2EJ_SbAuK1Fmd1KgdOUf4-HjOeBsGHsIR2gW5xqgI2DcHQv-gAsDFfulMFIWzTHr_yiS-JJFQ8UIn3x9ZB7WiADoUuF4RPOifj6uLTBmlDQbiArPegKNwRbHGli10N47uUK?width=859&height=732&cropmode=none"
         }
     ]
 }

@@ -1,0 +1,44 @@
+{
+    "step": [
+        {
+            "id": 0,
+            "directions": "<p>首先建一個資料夾，最好的話每一層資料夾名稱都是英文，以防未來發生錯誤，資料夾可以自由命名，但以英文為主，在此命名為「javascript」</p>",
+            "imagesUrl": "https://dsm01pap007files.storage.live.com/y4m_bgd5ud-WrBXqAsW1lsFgX8nQJrhUoSJ1W5E3bn9M2eDNeWS1Kpo-i0gbdbA0YO-lD4772NRTWmoD7rGekmHv6D_7cbSGzL2gZELN3520ztEBo4YT_Ahd3SVKgUmSoWoVTFcmtaNfqtXmQEJKqE9nOFBzzhmjb3LxkRpUMjNda3T5EFBgIHo_YgSIFM1ixkc?width=1124&height=591&cropmode=none"
+        },
+        {
+            "id": 1,
+            "directions": "再來我們將建立好的專案資料夾拉入vscode中",
+            "imagesUrl": "https://dsm01pap007files.storage.live.com/y4m5_jllsBSmvt-g3GSI9veFjXX73tcb1mTcHRxmCGbBCPWKlXUAShNxMiPPdNbtOXvNl03Sesy4niVqHA9pwHdojBzecAuvh-M2x-op-i6OwOes0NGrLHQ2hbdJgxuUSoVmRvLaeUkSNVEXzWonCJNN6fqk90xOjfaTtwK1BF0cktVTnLA0SJ8VbIZMMOLii-o?width=1718&height=928&cropmode=none"
+        },
+        {
+            "id": 2,
+            "directions": "這裡會詢問一些安全性問題，這裡選擇「是」",
+            "imagesUrl": "https://dsm01pap007files.storage.live.com/y4mJw5riJXJAGmv2XrXBPz4McPUcpS7SVvqWKg7gA3LITEbQr9Yf3c7gWDv8XOUxCl0aTyJuwDPh3FBQNPP1epbL7bV62DBZeXEDixVl4M8hI1LJDjqngn_899Ddh-sLmMDgrzqvay7ySTimOgFZB-M17ycnUuuDdGQOyJV7wIsM1Wi9l6Y5mMolqMvGQpglBDc?width=1024&height=768&cropmode=none"
+        },
+        {
+            "id": 3,
+            "directions": "<p>在vscode的檔案總管(紅框)中建立一個「index.js」的檔案(綠框)，這個命名也是隨意，一樣英文為主，副檔名只要是「.js」結尾就可以</p>",
+            "imagesUrl": "https://dsm01pap007files.storage.live.com/y4m2NTwo8eUQJDTBw_ZAyoz1JFg5ac98_yzXixNkWWn3Ds30eTBnukZm1jDAJ_vZ2ixiVdfETHapdJ6Clq_ZXZaQHY3j_SSXgyUrv-7SjDutdRGkDvIk3Bu9YP6yQzqlzn7HE8jqpiQ6S6TskwztRfuKto7cCkWatuwlJBAMtGhFvCK5oocWO_Jq_UQlIHgzb1t?width=1718&height=888&cropmode=none"
+        },
+        {
+            "id": 4,
+            "directions": "<p>建立好檔案之後，看到右邊的編輯區，這裡就是寫程式碼的地方</p>",
+            "imagesUrl": "https://dsm01pap007files.storage.live.com/y4mBe3xuL6r77JJ5wT5UO3dDr8TjFSXd-0iVGRG4HzFpkbNqJ5KFmvsN3wnTONUmO8NjjLr2GkmltZecnVy1gAW7oWZzKRHvqaA7Kxzwiz-oB5XPNhp8pVPeRmP-A91IzI8Y_BpLIGEyXF48DKKaXkl0rhkZATKFKhBxLWmL70bW0nzl_kcyYAYMzA2BBR3MBL8?width=1718&height=888&cropmode=none"
+        },
+        {
+            "id": 5,
+            "directions": "<p>接下來在下面紅框處，滑鼠拖拉開啟終端機</p>",
+            "imagesUrl": "https://dsm01pap007files.storage.live.com/y4mM2njnqvGKekVgGUzqMsZgpwOzLUjLSF_4xN-K0GvTUFqvsXbL97TFCxCf75dB1fFCTOK7VkVj-0DRKBe7jR7QuItSb2m8dHDgIUKTDN9EaW_ffGscioxO4Pn7jMqIJssf5KCVU9zjVwT9te_w-iBh7vAL1YFvfAS_mD5PQrI6Y7qjzbHvuQr7oOhe0Dolndn?width=1718&height=928&cropmode=none"
+        },
+        {
+            "id": 6,
+            "directions": "<p>這樣就是成功開啟終端機，就是我們在執行程式的地方，執行的方法如下：</p><p>指令結構：<code>node 檔案名稱.js</code></p>",
+            "imagesUrl": "https://dsm01pap007files.storage.live.com/y4m13ixF3AEOYT1OBIRmpp8kWVkpW_OLMm3-8UGDcmR8ySTia0abDlgfAYCDa7FGZm_FJkO7VySM9D1eKUIhzxQ7QlPCbfdN1hMtqu3PgR6QetiErmgGNfEeDprae1KMHcuMVVaiMWy4srW_FSo35-vMJQkUe7pKsStmPDDgK6h89xfX1K7NxkEoz5ZT5C3A88f?width=1718&height=928&cropmode=none"
+        },
+        {
+            "id": 7,
+            "directions": "<p>因為我們的檔案名稱為 index.js 所以我們在終端機中輸入<code>node index.js</code>，再按下「Enter」鍵就會開始執行</p>",
+            "imagesUrl": "https://dsm01pap007files.storage.live.com/y4mCPhQzB3FrK4_T6x32QMkZ3ApvhHDX_MW-J8c_aQi6BvnwZsAlI-oZfiebX6zZ0__V8nIm_zSGXEZeKUzNBKP2Y-rQ-RSZaaxnvzapZpXxiB3wqvJeWAY8-TxXOQBNKLoqYi7bFYzFepQGSD70j8bNb1VW99LyyHUP2EJgtRZIxw3a5DWZ_NqxdNlnNYiXRCD?width=1718&height=888&cropmode=none"
+        }
+    ]
+}
