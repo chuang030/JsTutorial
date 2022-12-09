@@ -115,8 +115,8 @@ window.addEventListener('load', removedBorderBottom)
     .step-box {
         padding: 1%;
         width: calc(100% / 3);
-        height: 450px;
-        min-width: 400px;
+        min-height: 450px;
+        min-width: 365px;
         display: flex;
         flex-wrap: wrap;
         align-items: stretch;

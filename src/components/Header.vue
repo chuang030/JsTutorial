@@ -14,7 +14,7 @@ defineProps<{ titleText: string }>()
 <style lang="scss">
 .title {
     width: 100%;
-    min-width: 395px;
+    min-width: 365px;
     margin-bottom: 3%;
     display: flex;
     justify-content: center;
@@ -33,7 +33,7 @@ defineProps<{ titleText: string }>()
         }
 
         @media screen and (max-width: 720px) {
-            width: 90%;
+            width: 95%;
         }
 
         h1 {

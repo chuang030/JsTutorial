@@ -34,7 +34,7 @@ const showItem = (boxId: string): void => {
       <StepBox :stepJSONData=vscodeStepJSONData.step></StepBox>
     </div>
     <ChapterBox chapteText="建立專案" @click="showItem('createProject')" :isClick="clickItem === pageList[2]"></ChapterBox>
-    <div class="vscode-step" v-show="clickItem === pageList[2]">
+    <div class="create-project" v-show="clickItem === pageList[2]">
       <StepBox :stepJSONData=createProjectStepJSONData.step></StepBox>
     </div>
   </main>
