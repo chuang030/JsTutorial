@@ -80,7 +80,7 @@ window.addEventListener('load', removedBorderBottom)
     <div class="big-image-box" v-show="isOpenBigImage">
         <div class="big-image-box-top-button">
             <button class="button-style">
-                <a :href=bigImageObject.url>
+                <a :href=bigImageObject.url download>
                     <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" class="bi bi-download"
                         viewBox="0 0 16 16">
                         <path

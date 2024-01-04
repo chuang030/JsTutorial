@@ -3,52 +3,52 @@
         {
             "id": 0,
             "directions": "<p>這軟體可以簡稱為vscode，<a href='https://code.visualstudio.com/download' target='blank' class='directions-style'>點擊這裡下載</a>，下載紅框中的x64或x86，依照系統選擇</p>",
-            "imagesUrl": "https://dsm01pap007files.storage.live.com/y4mNfXIt7Obc6ocxXKBWhr7RxBQREilSZklsRv8kK5EJ3Wb5Sg9YmYZwZ--Q1aDAQwkn_DgAK4qBx6tbJFnj2ogouuOTxGAcbvQ38dUi5kq3LYe_PPNuMJPaQiCAxVjnAPuSkENMQT3jKjHi8Faqj8LxKtEuS7AciarnXTLyGH6utQQUXOgmDyOBopb6vp-2ihD?width=332&height=308&cropmode=none"
+            "imagesUrl": "/public/vscode_step_data/00.webp"
         },
         {
             "id": 1,
             "directions": "<p>點擊下載的檔案安裝</p>",
-            "imagesUrl": "https://dsm01pap007files.storage.live.com/y4mI8PxvEJTFLbZmQBDcQ-Kg0Zcz7rSFmid_LTwuiDna6tbyrM6VcSg5iUXLxnHQ_hS6-ovfzgPBIWjaHIolRo8ifVELarNjdHc_nKnxtCQz_ZXwZ8movgem7fNWBFNJAh32Lo3PcmZgGLA2SoQ3cNaSL2nq53NfUbp4sZ9o0TEUysDCoZT29zzSb7cAF8JN-4a?width=367&height=251&cropmode=none"
+            "imagesUrl": "/public/vscode_step_data/01.webp"
         },
         {
             "id": 2,
             "directions": "<p>點擊「是」</p>",
-            "imagesUrl": "https://dsm01pap007files.storage.live.com/y4m4c_641-wLKVautIYetHXeCJXfjYdz_6OFO3mjgSqbpNAFg7bDhYUXqFavUt6lVlXrYW1Sx5XmETCNHJCSq8PO063-JM-WRqkAWfp-x1LrysYb_N86xQ4bUbae55miALSA0fe5jSntorLUYMZL6jexNxc4Mzhh8VvvWLdq3AN1ZM3dnfJJIkj5zwwNvqZhTk4?width=486&height=326&cropmode=none"
+            "imagesUrl": "/public/vscode_step_data/02.webp"
         },
         {
             "id": 3,
             "directions": "<p>勾選我同意後下一步</p>",
-            "imagesUrl": "https://dsm01pap007files.storage.live.com/y4ml7OwVLDSMckN-hGwgxK6_k3tMb5je0IlLgK24pbFTWhnbdHTkfUx4B88NvUc0YHelKHopSGrB5r49ecpJXgkoNd86W-bKYnwHkTwwJhKm2TJLeZ6X0dsQmuu_43wzEQG6oSwzwdmcJEOmiRzd4tn4QXI6etvhO36GyWu3U3Amb9FEJDHx4fgey3qPXaN9gv0?width=598&height=430&cropmode=none"
+            "imagesUrl": "/public/vscode_step_data/03.webp"
         },
         {
             "id": 4,
             "directions": "<p>下一步</p>",
-            "imagesUrl": "https://dsm01pap007files.storage.live.com/y4mKJw66VHTXsgDKje9Nd0WyPS9Ojf7hBSXau2tadTHI8K5QhxAQNWOPL5OhXUd1F6CRmV9cItxbVrTJ-kQX9vAFl1lSsZLDjqWmqFSAiKWAaj56RWkdRgxuyRpKvbL9L5kB2-4leYnG2dcF27-AVANxSL3jLszGkSu9oY3dJds89mLDSoQlvyk8ac_EJjkZO2k?width=598&height=430&cropmode=none"
+            "imagesUrl": "/public/vscode_step_data/04.webp"
         },
         {
             "id": 5,
             "directions": "<p>下一步</p>",
-            "imagesUrl": "https://dsm01pap007files.storage.live.com/y4mFLE0EqIcsAvcNKW1xOjvLK1kJx--U9IrUjNEqzPwUzg5gFqzX7f59sFBuZ1lM3PAgckJLqzPQ-mw6sn5SIL-hixYXqSrmX-HEdNDhzVcwlDrkYWj2Ai4Egm2TtkYREAJ3y5QREBaevUGYVMqWQ5NILjpT-5Vbw-xf_QOvniqbGYZYTLDry4GuFf_Pr50bL7s?width=598&height=430&cropmode=none"
+            "imagesUrl": "/public/vscode_step_data/05.webp"
         },
         {
             "id": 6,
             "directions": "<p>勾選「建立桌面圖示」後下一步</p>",
-            "imagesUrl": "https://dsm01pap007files.storage.live.com/y4mtm1oS1RlwXNGW01G25-WWXNlyyz95T4K_rFnqpE7VjS7EgT8cQLG5F1pKz6MeA-__r1t6QxklawdHQIhPN9zXjIMKCBvwrf79r2kzZVoUCKPa-L8OvZcyYQx0RVQHGZDCUUfWXOqrEHY6P-kQG1ld2U9rwTsATDS3VCNllhyS7zUjleY8edpw9ZBgUHbo659?width=598&height=430&cropmode=none"
+            "imagesUrl": "/public/vscode_step_data/06.webp"
         },
         {
             "id": 7,
             "directions": "<p>點擊安裝</p>",
-            "imagesUrl": "https://dsm01pap007files.storage.live.com/y4mI2wkMrjMgZqzFa_SIC0PvjCy9qzU3LK6OQqdM0KqofTrVIAU7Vv4aZtjZQFlBtDJSHGrm3CpQbJhsxaAo6sZxYSYwqT7FSBT7nRwc4zkkUO4anfQGMA4hTWZwnG927ViJjy1BBaEIYlfjNmzVd6IIstbBfA-ym_KxGPmd5oifWDPbM2hNtXivPP4jhIWEUYM?width=598&height=430&cropmode=none"
+            "imagesUrl": "/public/vscode_step_data/07.webp"
         },
         {
             "id": 8,
             "directions": "<p>看到這個畫面，代表安裝成功，點擊完成</p>",
-            "imagesUrl": "https://dsm01pap007files.storage.live.com/y4m1TAVYMTp5pxoCJPcYwq-7uEcq6KSsfy_N8oBEcQ-mMiFB05ZkZ2EIRciCMKmaO_KV6DerytDaF4i1WAI_8P5DXU7m-t2xae9YQCxp3jWgUDmeS6tMDIwsrQbIhpVC9i217nledHaxLqtuB9bxYdTIGZS5_cv4uwa-_myg9j5THd0qxbm6kk833N_7BpVYGQR?width=598&height=430&cropmode=none"
+            "imagesUrl": "/public/vscode_step_data/08.webp"
         },
         {
             "id": 9,
             "directions": "<p>看到這個畫面，代表成功開啟vscode</p>",
-            "imagesUrl": "https://dsm01pap007files.storage.live.com/y4m0LQ8YRNCldy628stOq6ykMXOMl4m91sLERHBxh95VRhgkD0DNI_Z8z4SUXDGwM4soApEQBoZLOvu9qW70NEKq630HZTxWxAZS7g1xaO3PX7mIfPcRoONi6woWhW-hWRFIharx47l8AEORV18NEr4cn4_mE1adSYeg4QFHtW1fWuj_q5ryxaPbv2hauT2iBsG?width=1718&height=888&cropmode=none"
+            "imagesUrl": "/public/vscode_step_data/09.webp"
         }
     ]
 }
